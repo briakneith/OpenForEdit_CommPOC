@@ -1,0 +1,12 @@
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bmcneece001\Documents\MySource\PersistentConnections\WebApplication1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
